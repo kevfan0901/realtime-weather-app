@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
+import dayjs from 'dayjs';
 const authorizationKey = 'CWB-507B37E0-0383-4D8C-878D-628B54EC3536';
 const fetchCurrentWeather = locationName => {
   return fetch(
@@ -57,7 +58,7 @@ const fetchWeatherForecast = cityName => {
 const useWeatherApi = currentLocation => {
   const { locationName, cityName } = currentLocation;
   const [weatherElement, setWeatherElement] = useState({
-    observationTime: new Date(),
+    observationTime: dayjs(),
     locationName: '',
     humid: 0,
     temperature: 0,
