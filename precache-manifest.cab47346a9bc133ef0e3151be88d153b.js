@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31c345f5cc0a82448a15dfa6fbf09d7e",
+    "revision": "774152e06891b2605cf6b59bb5c0a448",
     "url": "/realtime-weather-app/index.html"
   },
   {
-    "revision": "0e26569601ab91ec6fcf",
-    "url": "/realtime-weather-app/static/css/main.dcc359a1.chunk.css"
+    "revision": "159ca3646954826b6bd2",
+    "url": "/realtime-weather-app/static/css/main.6b684a32.chunk.css"
   },
   {
-    "revision": "ba96a6f3b18f17dd6308",
-    "url": "/realtime-weather-app/static/js/2.e335be93.chunk.js"
+    "revision": "0296bd1eb519a74cca80",
+    "url": "/realtime-weather-app/static/js/2.29e547d7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/realtime-weather-app/static/js/2.e335be93.chunk.js.LICENSE.txt"
+    "url": "/realtime-weather-app/static/js/2.29e547d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e26569601ab91ec6fcf",
-    "url": "/realtime-weather-app/static/js/main.aa737bc7.chunk.js"
+    "revision": "159ca3646954826b6bd2",
+    "url": "/realtime-weather-app/static/js/main.17c68c2f.chunk.js"
   },
   {
     "revision": "66a993e553832b7b9bda",
