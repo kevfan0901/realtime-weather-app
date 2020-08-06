@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/realtime-weather-app/static/css/main.6b684a32.chunk.css",
-    "main.js": "/realtime-weather-app/static/js/main.fccb2e37.chunk.js",
-    "main.js.map": "/realtime-weather-app/static/js/main.fccb2e37.chunk.js.map",
+    "main.js": "/realtime-weather-app/static/js/main.17575801.chunk.js",
+    "main.js.map": "/realtime-weather-app/static/js/main.17575801.chunk.js.map",
     "runtime-main.js": "/realtime-weather-app/static/js/runtime-main.01700676.js",
     "runtime-main.js.map": "/realtime-weather-app/static/js/runtime-main.01700676.js.map",
-    "static/js/2.5b49bcbb.chunk.js": "/realtime-weather-app/static/js/2.5b49bcbb.chunk.js",
-    "static/js/2.5b49bcbb.chunk.js.map": "/realtime-weather-app/static/js/2.5b49bcbb.chunk.js.map",
+    "static/js/2.7ef25046.chunk.js": "/realtime-weather-app/static/js/2.7ef25046.chunk.js",
+    "static/js/2.7ef25046.chunk.js.map": "/realtime-weather-app/static/js/2.7ef25046.chunk.js.map",
     "index.html": "/realtime-weather-app/index.html",
-    "precache-manifest.4b388f0238c0981a08089d448716fbbb.js": "/realtime-weather-app/precache-manifest.4b388f0238c0981a08089d448716fbbb.js",
+    "precache-manifest.86f896becabfc873cd1b1a4a7244f1b1.js": "/realtime-weather-app/precache-manifest.86f896becabfc873cd1b1a4a7244f1b1.js",
     "service-worker.js": "/realtime-weather-app/service-worker.js",
     "static/css/main.6b684a32.chunk.css.map": "/realtime-weather-app/static/css/main.6b684a32.chunk.css.map",
-    "static/js/2.5b49bcbb.chunk.js.LICENSE.txt": "/realtime-weather-app/static/js/2.5b49bcbb.chunk.js.LICENSE.txt",
+    "static/js/2.7ef25046.chunk.js.LICENSE.txt": "/realtime-weather-app/static/js/2.7ef25046.chunk.js.LICENSE.txt",
     "static/media/airFlow.981a9625.svg": "/realtime-weather-app/static/media/airFlow.981a9625.svg",
     "static/media/cog.7ca9fe14.svg": "/realtime-weather-app/static/media/cog.7ca9fe14.svg",
     "static/media/day-clear.19e2ef13.svg": "/realtime-weather-app/static/media/day-clear.19e2ef13.svg",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.01700676.js",
-    "static/js/2.5b49bcbb.chunk.js",
+    "static/js/2.7ef25046.chunk.js",
     "static/css/main.6b684a32.chunk.css",
-    "static/js/main.fccb2e37.chunk.js"
+    "static/js/main.17575801.chunk.js"
   ]
 }
